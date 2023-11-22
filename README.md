@@ -61,7 +61,7 @@ azeemkhan842002@gmail.com
 
 - 👨‍💻 All of my projects are available at [[Github](https://github.com/muhammed-hasaan)](https://github.com/mohammadazeem66)
 
-- 💬 Ask me about **Front End Development || Web Designing**
+- 💬 Ask me about **Front End Development || Web Developer**
 
 - ⚡ Fun fact: I use tabs over spaces
 
