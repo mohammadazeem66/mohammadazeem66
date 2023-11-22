@@ -7,13 +7,9 @@
  Hard-working web developer with a flair of creating Elegents
  solution in the latest amount of time
  strong front-end development skill using html , CSS , java script
- React native , React Js ,  Bootstrap , wordpress , react bootstrap and firebase.
+  React Js ,Next Js , React native ,  Bootstrap  , react bootstrap and firebase.
  Intensive experience in making responsive web layouts to modern
- browsers and mobile devices
-he started his career with Web development almost 2.5 years ago
-Following are some notable startups Hasaan Developer had worked with:
-
-he started his career with Web development almost 2 years ago
+ browsers and mobile devices...
 
 
 
@@ -61,7 +57,7 @@ azeemkhan842002@gmail.com
 
 - 🔭 I’m currently working on [**facebook clone**]
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [[Github](https://github.com/muhammed-hasaan)](https://github.com/mohammadazeem66)
 
