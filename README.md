@@ -24,7 +24,7 @@
 <h2 align="left">Languages and Tools:</h2>
 
 <p align='center'>
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,c,Java" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,c" />
   <img src="https://skillicons.dev/icons?i=react,react native"/>
    <img src="https://skillicons.dev/icons?i=firebase"/>
 </p>
@@ -57,7 +57,7 @@ azeemkhan842002@gmail.com
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [[Github](https://github.com/muhammed-hasaan)](https://github.com/mohammadazeem66)
+- 👨‍💻 All of my projects are available at [[Github](https://github.com/muhammed-hasaan)](https://github.com/mohammadazeem66?tab=repositories)
 
 - 💬 Ask me about **Front End Development || Web Developer**
 
@@ -74,8 +74,8 @@ azeemkhan842002@gmail.com
 
 <br/>
 <div align="center">
-<a href="[https://github.com/muhammed-hasaan](https://github.com/mohammadazeem66?tab=repositories)" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github  />
+<a href="[(https://github.com/mohammadazeem66)](https://github.com/mohammadazeem66)" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
 </div>
 <br/>  
