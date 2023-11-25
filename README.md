@@ -24,7 +24,7 @@
 <h2 align="left">Languages and Tools:</h2>
 
 <p align='center'>
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,php,c" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,c,Java" />
   <img src="https://skillicons.dev/icons?i=react,react native"/>
    <img src="https://skillicons.dev/icons?i=firebase"/>
 </p>
@@ -34,8 +34,6 @@
 <h2 align="left">Contact me</h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/muhammed-hasaan" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-<a href="https://leetcode.com/muhammedhasaan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammed-hasaan" style ="margin-top:-80px;" height="60" width="60" /></a>
 </br>
  
 ```
@@ -47,8 +45,8 @@ azeemkhan842002@gmail.com
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azaanullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-hasaan" /> </p>
-  <a href="https://www.linkedin.com/in/muhammed-hasaan-2859bb268/">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadazeem66&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadazeem66" /> </p>
+  <a href="https://www.linkedin.com/in/mohammadazeem66-2859bb268/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <br>
@@ -81,5 +79,3 @@ azeemkhan842002@gmail.com
 </a>
 </div>
 <br/>  
-- ⚡ Fun fact: ...
--->
